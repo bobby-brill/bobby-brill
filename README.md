@@ -26,6 +26,7 @@ Before founding Brilliant AI Solutions, I spent over 25 years in IT leadership a
 ### Connect
 
 [![Website](https://img.shields.io/badge/Website-brilliantaisolutions.com-C8102E?style=flat)](https://brilliantaisolutions.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Brilliant_AI_Solutions-181717?style=flat&logo=github&logoColor=white)](https://github.com/brilliantaisolutions)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bobby_Brill-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brill)
 [![Email](https://img.shields.io/badge/Email-bobby%40brilliantaisolutions.com-111111?style=flat&logo=gmail&logoColor=white)](mailto:bobby@brilliantaisolutions.com)
 

@@ -4,7 +4,7 @@
 
 I help colleges and universities turn AI ambition into a practical roadmap — the strategy, governance, and research computing infrastructure that make AI work at institutional scale.
 
-Before founding Brilliant AI Solutions, I spent 26 years in IT leadership at **New York University**, most recently as Senior Director for Strategic Planning, Projects & Services and as Interim AVP & Chief Academic Technology Officer.
+Before founding Brilliant AI Solutions, I spent over 25 years in IT leadership at **New York University**, most recently as Senior Director for Strategic Planning, Projects & Services and as Interim AVP & Chief Academic Technology Officer.
 
 ### What I worked on at NYU
 
